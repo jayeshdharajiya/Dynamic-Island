@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dynamic Island</string>
+    <string name="cover">cover</string>
+    <string name="pause_play">pause/play</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+    <string name="welcome">Dynamic Island</string>
+    <string name="to_get_started_the_app_needs_some_required_permissions">To get started, the app needs some required permissions</string>
+    <string name="draw_over_other_apps">Draw over other apps</string>
+    <string name="notification_access">Notification Access</string>
+    <string name="record_audio_from_apps">Record Audio from apps</string>
+    <string name="enable_smart_edge">Enable Smart Edge</string>
+    <string name="enable_hardware_acceleration">Enable Hardware Acceleration</string>
+    <string name="access_description">Turn on to let the app draw over status bar</string>
+</resources>
